@@ -1,0 +1,86 @@
+body{
+height: 100vh;
+display: flex;
+align-items: center;
+justify-content: center;
+background-color:grey ;
+
+}
+#ensemble{
+width: 550px;
+height: 450px;
+border: solid white; border-color: aliceblue;
+background-color: white;
+position: absolute;
+padding: 20px;
+
+}
+#tollier{
+    
+color:#F24A02 ;
+font-family: 'Kumbh Sans', sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 15px;
+letter-spacing: 2px;
+text-transform: uppercase;
+-webkit-text-stroke: 0.06em;
+
+}
+#CasualÉditionLimitée{
+    color: #20242D;
+    font-family: 'Kumbh Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 44px;
+    line-height: 48px;
+    -webkit-text-stroke: 0.04em;
+}
+#para{
+    color:#69707D; ;
+    width: 476px;
+    height: 106px;
+    left: 18px;
+    top: 183px;
+    
+    font-family: 'Kumbh Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    -webkit-text-stroke: 0.4px;
+
+}
+#prix1{
+    font-family: 'Kumbh Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 35px;
+    color: #20242D;
+    -webkit-text-stroke : 0.05em
+    
+
+
+
+}
+
+
+
+
+
+#prix2{
+    font-family: 'Kumbh Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    text-decoration-line: line-through;
+    color: #69707D;
+    -webkit-text-stroke: 0.3px;
+    
+    
+
+
+}
